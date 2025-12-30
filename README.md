@@ -4,7 +4,9 @@ A Face Proctoring System is a desktop-based application designed to ensure integ
 
 The application continuously observes the examinee and detects suspicious behaviors such as multiple faces, absence from camera, and unauthorized movements, helping institutions conduct secure and fair online assessments.
 
+
 🚀 Key Features
+
 
 🧑 Real-time Face Detection using webcam feed
 
@@ -16,7 +18,9 @@ The application continuously observes the examinee and detects suspicious behavi
 
 ⚡ Lightweight & Efficient real-time processing
 
+
 🛠️ Technologies Used
+
 
 Python – Core programming language
 
@@ -28,7 +32,9 @@ Tkinter / PyQt – GUI development
 
 NumPy – Array and image data handling
 
+
 🖥️ System Workflow
+
 
 User launches the application via the GUI
 
@@ -42,7 +48,9 @@ Violations (multiple/no face) are detected and logged
 
 Proctoring session ends with saved logs
 
+
 🎯 Use Cases
+
 
 Online examinations
 
