@@ -1,11 +1,11 @@
-🎥 Face Proctoring System with GUI
+🎥** Face Proctoring System with GUI**
 
 A Face Proctoring System is a desktop-based application designed to ensure integrity during online examinations by monitoring candidates in real time using computer vision techniques. This system provides an interactive Graphical User Interface (GUI) and performs automated proctoring by analyzing webcam input.
 
 The application continuously observes the examinee and detects suspicious behaviors such as multiple faces, absence from camera, and unauthorized movements, helping institutions conduct secure and fair online assessments.
 
 
-🚀 Key Features
+🚀 **Key Features**
 
 
 🧑 Real-time Face Detection using webcam feed
@@ -19,7 +19,7 @@ The application continuously observes the examinee and detects suspicious behavi
 ⚡ Lightweight & Efficient real-time processing
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 
 Python – Core programming language
@@ -33,7 +33,7 @@ Tkinter / PyQt – GUI development
 NumPy – Array and image data handling
 
 
-🖥️ System Workflow
+🖥️** System Workflow**
 
 
 User launches the application via the GUI
@@ -49,7 +49,7 @@ Violations (multiple/no face) are detected and logged
 Proctoring session ends with saved logs
 
 
-🎯 Use Cases
+🎯 **Use Cases**
 
 
 Online examinations
