@@ -22,7 +22,7 @@ The application continuously observes the examinee and detects suspicious behavi
 🛠️ **Technologies Used**
 
 
-Python – Core programming language
+Java – Core programming language
 
 OpenCV – Face detection and image processing
 
